@@ -9,11 +9,12 @@ This repository contains the academical material used during the lectures.
 ## 10th May 2023
 * ANN_Parthenope_10052023.pptx - slides lecture. 
 
-* One Hidden Layer with Tensorflow.ipynb - python script for shallow ANN
+* 1. One Hidden Layer with Tensorflow.ipynb - python script for shallow ANN
 * MedianHouseValuePreparedCleanAttributes.csv - use case attributes matrix
 * MedianHouseValueOneHotEncodedClasses.csv - use case target variables
-
-* ANN_Parthenope_Carreer_Paths.pptx - exra slides lecture
+*  Working groups.jpg - final project teams
 
 ## 19th May 2023
-* Deep ANN with tanh and Keras.ipynb
+* ANN_Parthenope_19052023.pptx - slides lecture. 
+* 2. Deep ANN with tanh and Keras.ipynb
+* * ANN_Parthenope_Carreer_Paths.pptx - exra slides lecture
