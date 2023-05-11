@@ -17,4 +17,7 @@ This repository contains the academical material used during the lectures.
 ## 19th May 2023
 * ANN_Parthenope_19052023.pptx - slides lecture. 
 * 2.Deep ANN with tanh and Keras.ipynb
-* * ANN_Parthenope_Carreer_Paths.pptx - exra slides lecture
+* ANN_Parthenope_Carreer_Paths.pptx - exra slides lecture
+
+## 26th May 2023
+Teams projects presentation
