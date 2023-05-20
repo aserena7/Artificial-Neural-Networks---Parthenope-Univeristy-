@@ -21,6 +21,5 @@ This repository contains the academical material used during the lectures.
 * ANN_Parthenope_Carreer_Paths.pptx - exra slides lecture
 
 ## 26th May 2023
-Teams projects presentation. 
-![image](https://github.com/aserena7/Artificial-Neural-Networks-parthenope-university-course/assets/55877748/0a26dc38-a120-4ff1-beb1-3b26ee496a23)
+![image](https://github.com/aserena7/Artificial-Neural-Networks-parthenope-university-course/assets/55877748/ba6935d9-3d3d-43f9-90cc-5b58ba951835)
 
